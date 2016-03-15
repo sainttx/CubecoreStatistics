@@ -1,0 +1,4 @@
+name: CubecoreStatistics
+version: 1.0
+main: com.kingarchie.plugins.cubecorestatistics.CubecoreStatistics
+depend: [Vault]
